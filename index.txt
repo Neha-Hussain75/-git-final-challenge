@@ -1,2 +1,3 @@
 Welcome to my Git Final Challenge
 Learning Git and GitHub
+My first Git project
